@@ -22,9 +22,15 @@ Comparative Analysis: Compare subjective and objective water quality scores to v
 Key Findings:
 
 Water Source Distribution: The majority of water sources are taps and wells, with significant usage variability across different types.
+
 Queue Times: Average queue times vary significantly by day and hour, with certain periods experiencing longer wait times.
+
 Water Quality: Several water sources with high subjective quality scores still show biological contamination, indicating a need for better monitoring and reporting.
+
 Pollution Issues: Instances of misreported clean results in the presence of biological contaminants were identified and corrected.
+
 Employee Performance: Employee data was standardized, and performance metrics such as visit counts were aggregated to identify top-performing staff.
+
 Geographical Insights: The analysis revealed disparities in the number of documented water sources across different towns and provinces, highlighting areas that may need more attention.
+
 Verification Discrepancies: Comparative analysis between auditor and surveyor scores showed differences, suggesting the need for more consistent evaluation methods.
