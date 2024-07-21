@@ -7,11 +7,16 @@ This project focuses on analyzing water data for the Maji Ndogo region to addres
 Objectives:
 
 Data Exploration: Investigate the various datasets to understand the structure and key attributes.
+
 Water Source Analysis: Examine the types and distribution of water sources and evaluate their usage and service levels.
+
 Queue Time Assessment: Analyze the time spent in queues at different water sources and identify patterns based on days of the week and hours of the day.
+
 Water Quality Evaluation: Assess the quality of water sources and identify any discrepancies or pollution issues.
+
 Employee Data Cleaning: Standardize employee information, including email addresses and phone numbers, and aggregate performance metrics.
 Location Analysis: Understand the geographical distribution of water sources across towns and provinces.
+
 Comparative Analysis: Compare subjective and objective water quality scores to verify consistency and accuracy in assessments.
 
 Key Findings:
